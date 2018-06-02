@@ -61,3 +61,5 @@ I'd rather stick with existing unicode symbols.
   Powerline.
 * [emacs powerline](https://github.com/milkypostman/powerline): Powerline for
   Emacs
+
+My small changes to modify look & feel 
